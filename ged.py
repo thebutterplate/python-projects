@@ -1,0 +1,10 @@
+print("hELLO world")
+print ("Waffels")
+print("Who is Jegar")
+answer = input()
+print('You answered: ', answer)
+print ("MUMUEEEEEE")
+print ("whatttt the bobugersssssssssssssssssssssss")
+if answer.startwith('attack on titan'):
+    print ("awsome u need rapenses well!")
+print ("gsjdvaSHHJBVGFGJSAHgDKHHZGDKAHBF UHHH A.FJKHZERSGUUWG")
